@@ -13,11 +13,12 @@ permalink: /pages/about/
 
 <div class="page-body">
 
-<p data-pt="Bacharel em Ciência da Computação (2020–2023) e mestrando no Programa de Pós-Graduação em Ciência da Computação da Universidade Federal Rural do Semi-Árido (UFERSA), com linha de pesquisa voltada à Otimização e Inteligência Computacional. Atuei como Professor Substituto na UFERSA até janeiro de 2026, contribuindo para a formação de recursos humanos em nível de graduação e participando de diversas bancas examinadoras na área de tecnologia."
-   data-en="I hold a Bachelor's degree in Computer Science (2020–2023) and am currently a Master's student in the Computer Science Graduate Program at the Federal Rural University of the Semi-Arid Region (UFERSA), with research focused on Optimization and Computational Intelligence. I served as a Substitute Professor at UFERSA until January 2026, contributing to undergraduate education and participating in several academic examination boards in the technology field.">
-  Bacharel em Ciência da Computação (2020–2023) e mestrando no Programa de
-  Pós-Graduação em Ciência da Computação da Universidade Federal Rural do
-  Semi-Árido (UFERSA), com linha de pesquisa voltada à Otimização e
+<p data-pt="Doutorando no Programa de Pós-Graduação em Computação da Universidade Federal Fluminense (UFF), Mestre em Ciência da Computação (2024–2026) e Bacharel em Ciência da Computação (2020–2023) pela Universidade Federal Rural do Semi-Árido (UFERSA), com linha de pesquisa voltada à Otimização e Inteligência Computacional. Atuei como Professor Substituto na UFERSA até janeiro de 2026, contribuindo para a formação de recursos humanos em nível de graduação e participando de diversas bancas examinadoras na área de tecnologia."
+   data-en="I am a PhD student in the Computing Graduate Program at the Fluminense Federal University (UFF). I hold a Master's (2024–2026) and a Bachelor's degree (2020–2023) in Computer Science from the Federal Rural University of the Semi-Arid Region (UFERSA), with research focused on Optimization and Computational Intelligence. I served as a Substitute Professor at UFERSA until January 2026, contributing to undergraduate education and participating in several academic examination boards in the technology field.">
+  Doutorando no Programa de Pós-Graduação em Computação da Universidade
+  Federal Fluminense (UFF), Mestre em Ciência da Computação (2024–2026) e
+  Bacharel em Ciência da Computação (2020–2023) pela Universidade Federal
+  Rural do Semi-Árido (UFERSA), com linha de pesquisa voltada à Otimização e
   Inteligência Computacional. Atuei como Professor Substituto na UFERSA
   até janeiro de 2026, contribuindo para a formação de recursos humanos em
   nível de graduação e participando de diversas bancas examinadoras na área
@@ -55,7 +56,32 @@ permalink: /pages/about/
   <div class="timeline-item">
     <div class="timeline-marker"></div>
     <div class="timeline-content">
-      <span class="timeline-period">2024 – <span data-pt="Atual" data-en="Present">Atual</span></span>
+      <span class="timeline-period">2026 – <span data-pt="Atual" data-en="Present">Atual</span></span>
+      <h3 class="timeline-title"
+          data-pt="Doutorado em Computação"
+          data-en="PhD in Computer Science">
+        Doutorado em Computação
+      </h3>
+      <p class="timeline-institution">UFF —
+        <span data-pt="Universidade Federal Fluminense"
+              data-en="Fluminense Federal University">
+          Universidade Federal Fluminense
+        </span>
+      </p>
+      <p class="timeline-desc">
+        <span data-pt="Programa de Pós-Graduação em Computação. Orientadora: Profª. Débora Christina Muchaluat Saade."
+              data-en="Computing Graduate Program. Advisor: Prof. Débora Christina Muchaluat Saade.">
+          Programa de Pós-Graduação em Computação.
+          Orientadora: Profª. Débora Christina Muchaluat Saade.
+        </span>
+      </p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <span class="timeline-period">2024 – 2026</span>
       <h3 class="timeline-title"
           data-pt="Mestrado em Ciência da Computação"
           data-en="Master's in Computer Science">
@@ -69,11 +95,12 @@ permalink: /pages/about/
       </p>
       <p class="timeline-desc">
         <span data-pt="Linha de pesquisa" data-en="Research line">Linha de pesquisa</span>:
-        <span data-pt="Otimização e Inteligência Computacional. Foco em Aprendizado por Reforço (problema dos K-servos), Simulated Annealing e PSO. Orientadora: Profª. Amanda Gondim de Oliveira."
-              data-en="Optimization and Computational Intelligence. Focus on Reinforcement Learning (K-server problem), Simulated Annealing, and PSO. Advisor: Prof. Amanda Gondim de Oliveira.">
-          Otimização e Inteligência Computacional. Foco em Aprendizado por
-          Reforço (problema dos K-servos), Simulated Annealing e PSO.
-          Orientadora: Profª. Amanda Gondim de Oliveira.
+        <span data-pt="Otimização e Inteligência Computacional. Dissertação: “Estudo comparativo de métodos de otimização do Q-Learning usando PSO e SA, no contexto do problema dos K-servos”. Orientadora: Profª. Amanda Gondim de Oliveira. Bolsista CAPES."
+              data-en="Optimization and Computational Intelligence. Dissertation: “A comparative study of Q-Learning optimization methods using PSO and SA in the context of the K-server problem”. Advisor: Prof. Amanda Gondim de Oliveira. CAPES scholarship holder.">
+          Otimização e Inteligência Computacional. Dissertação: “Estudo
+          comparativo de métodos de otimização do Q-Learning usando PSO e SA,
+          no contexto do problema dos K-servos”.
+          Orientadora: Profª. Amanda Gondim de Oliveira. Bolsista CAPES.
         </span>
       </p>
     </div>
@@ -135,6 +162,24 @@ permalink: /pages/about/
   <div class="timeline-item">
     <div class="timeline-marker"></div>
     <div class="timeline-content">
+      <span class="timeline-period">2026 – <span data-pt="Atual" data-en="Present">Atual</span></span>
+      <h3 class="timeline-title"
+          data-pt="Revisor de Periódico"
+          data-en="Journal Reviewer">
+        Revisor de Periódico
+      </h3>
+      <p class="timeline-institution">
+        <span data-pt="Anais do Encontro de Computação do Oeste Potiguar (ECOP/UFERSA) — ISSN 2526-7574"
+              data-en="Proceedings of the Western Potiguar Computing Meeting (ECOP/UFERSA) — ISSN 2526-7574">
+          Anais do Encontro de Computação do Oeste Potiguar (ECOP/UFERSA) — ISSN 2526-7574
+        </span>
+      </p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
       <span class="timeline-period">2025 – 2026</span>
       <h3 class="timeline-title"
           data-pt="Professor Substituto"
@@ -158,9 +203,9 @@ permalink: /pages/about/
     <div class="timeline-content">
       <span class="timeline-period">2025 – <span data-pt="Atual" data-en="Present">Atual</span></span>
       <h3 class="timeline-title"
-          data-pt="Coordenador — CILab"
-          data-en="Coordinator — CILab">
-        Coordenador — CILab
+          data-pt="Coordenador de Pesquisas — CILab"
+          data-en="Research Coordinator — CILab">
+        Coordenador de Pesquisas — CILab
       </h3>
       <p class="timeline-institution">UFERSA</p>
       <p class="timeline-desc">
@@ -196,6 +241,105 @@ permalink: /pages/about/
   </div>
 
 </div>
+
+<hr>
+
+<!-- Orientações -->
+<h2 data-pt="Orientações" data-en="Supervision">Orientações</h2>
+
+<div class="timeline">
+
+  <div class="timeline-item">
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <span class="timeline-period">2026 – <span data-pt="Em andamento" data-en="Ongoing">Em andamento</span></span>
+      <h3 class="timeline-title"
+          data-pt="Trabalhos de Conclusão de Curso (2)"
+          data-en="Undergraduate Theses (2)">
+        Trabalhos de Conclusão de Curso (2)
+      </h3>
+      <p class="timeline-institution">UFERSA — <span data-pt="Tecnologia da Informação" data-en="Information Technology">Tecnologia da Informação</span></p>
+      <p class="timeline-desc">
+        <span data-pt="Evelyn Cristina de Oliveira Gomes e Iara Raquel de Almeida Fernandes — “Uso de Ferramentas Gamificadas e Técnicas de Machine Learning para Análise e Apoio ao Processo de Ensino-Aprendizagem em Disciplinas de Programação Introdutória”."
+              data-en="Evelyn Cristina de Oliveira Gomes and Iara Raquel de Almeida Fernandes — “Gamified Tools and Machine Learning Techniques for Analyzing and Supporting Teaching and Learning in Introductory Programming Courses”.">
+          Evelyn Cristina de Oliveira Gomes e Iara Raquel de Almeida Fernandes —
+          “Uso de Ferramentas Gamificadas e Técnicas de Machine Learning para
+          Análise e Apoio ao Processo de Ensino-Aprendizagem em Disciplinas de
+          Programação Introdutória”.
+        </span>
+      </p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <span class="timeline-period">2026 – <span data-pt="Em andamento" data-en="Ongoing">Em andamento</span></span>
+      <h3 class="timeline-title"
+          data-pt="Projeto SMARTLAB (3 estudantes)"
+          data-en="SMARTLAB Project (3 students)">
+        Projeto SMARTLAB (3 estudantes)
+      </h3>
+      <p class="timeline-institution">UFERSA</p>
+      <p class="timeline-desc">
+        Letícia Maria Gonçalves de Morais, Ana Beatriz Almeida da Silva,
+        Paulo Gabriel Viera de Souza Paiva.
+      </p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <span class="timeline-period">2025 – <span data-pt="Em andamento" data-en="Ongoing">Em andamento</span></span>
+      <h3 class="timeline-title"
+          data-pt="Iniciação Científica (2)"
+          data-en="Undergraduate Research (2)">
+        Iniciação Científica (2)
+      </h3>
+      <p class="timeline-institution">UFERSA — <span data-pt="Engenharia de Software" data-en="Software Engineering">Engenharia de Software</span></p>
+      <p class="timeline-desc">
+        <span data-pt="João Felype Feitosa Rêgo e Andrey de Oliveira Sabino — “Análise preditiva do desempenho no ENEM: explorando fatores regionais, sociais e de gênero com técnicas de ciência de dados”."
+              data-en="João Felype Feitosa Rêgo and Andrey de Oliveira Sabino — “Predictive analysis of ENEM performance: exploring regional, social and gender factors with data science techniques”.">
+          João Felype Feitosa Rêgo e Andrey de Oliveira Sabino — “Análise
+          preditiva do desempenho no ENEM: explorando fatores regionais, sociais
+          e de gênero com técnicas de ciência de dados”.
+        </span>
+      </p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <span class="timeline-period">2025 · <span data-pt="Concluídas" data-en="Completed">Concluídas</span></span>
+      <h3 class="timeline-title"
+          data-pt="Trabalhos de Conclusão de Curso (2)"
+          data-en="Undergraduate Theses (2)">
+        Trabalhos de Conclusão de Curso (2)
+      </h3>
+      <p class="timeline-institution">UFERSA — <span data-pt="Tecnologia da Informação" data-en="Information Technology">Tecnologia da Informação</span></p>
+      <p class="timeline-desc">
+        <span data-pt="Nathan Cardoso Linhares — “Análise comparativa dos modelos ARIMA e LSTM na predição de casos de dengue na cidade de Mossoró”. Daniel Lins Silva Andrade — “Predição de índices psicológicos em ambientes digitais utilizando redes neurais profundas”."
+              data-en="Nathan Cardoso Linhares — “Comparative analysis of ARIMA and LSTM models for predicting dengue cases in the city of Mossoró”. Daniel Lins Silva Andrade — “Prediction of psychological indices in digital environments using deep neural networks”.">
+          Nathan Cardoso Linhares — “Análise comparativa dos modelos ARIMA e
+          LSTM na predição de casos de dengue na cidade de Mossoró”.
+          Daniel Lins Silva Andrade — “Predição de índices psicológicos em
+          ambientes digitais utilizando redes neurais profundas”.
+        </span>
+      </p>
+    </div>
+  </div>
+
+</div>
+
+<p data-pt="Participei de 9 bancas examinadoras de Trabalhos de Conclusão de Curso na UFERSA em 2025, em temas como LLMs aplicados a teste de software, privacidade em IoT e LGPD, reconhecimento de língua de sinais com IA, análise de complexidade de algoritmos e predição com redes neurais profundas."
+   data-en="I served on 9 undergraduate thesis examination boards at UFERSA in 2025, on topics such as LLMs applied to software testing, IoT privacy and LGPD compliance, AI-based sign language recognition, algorithm complexity analysis, and deep neural network prediction.">
+  Participei de 9 bancas examinadoras de Trabalhos de Conclusão de Curso na
+  UFERSA em 2025, em temas como LLMs aplicados a teste de software,
+  privacidade em IoT e LGPD, reconhecimento de língua de sinais com IA,
+  análise de complexidade de algoritmos e predição com redes neurais profundas.
+</p>
 
 <hr>
 
@@ -257,6 +401,18 @@ permalink: /pages/about/
       <span class="tag">Raspberry Pi</span>
       <span class="tag">Arduino</span>
       <span class="tag">MQTT</span>
+    </div>
+  </div>
+
+  <div class="skill-group">
+    <h4 class="skill-group-title">
+      <i class="fas fa-language"></i>
+      <span data-pt="Idiomas" data-en="Spoken Languages">Idiomas</span>
+    </h4>
+    <div class="tags">
+      <span class="tag" data-pt="Português (nativo)" data-en="Portuguese (native)">Português (nativo)</span>
+      <span class="tag" data-pt="Inglês (intermediário)" data-en="English (intermediate)">Inglês (intermediário)</span>
+      <span class="tag" data-pt="Espanhol (intermediário)" data-en="Spanish (intermediate)">Espanhol (intermediário)</span>
     </div>
   </div>
 </div>

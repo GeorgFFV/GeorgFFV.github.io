@@ -4,15 +4,16 @@
 
 # --- Site Identity ---
 title: "George Felipe"
-tagline: "Mestrando em Ciência da Computação"
+tagline: "Doutorando em Computação"
 description: >-
   Portfólio acadêmico de George Felipe Fernandes Vieira.
-  Mestrando no programa UFERSA/UERN, com pesquisa em
+  Doutorando em Computação na Universidade Federal Fluminense (UFF)
+  e Mestre em Ciência da Computação pela UFERSA, com pesquisa em
   Otimização e Inteligência Computacional.
 author:
   name: "George Felipe Fernandes Vieira"
-  title_pt: "Mestrando em Ciência da Computação"
-  title_en: "Computer Science MSc Student"
+  title_pt: "Doutorando em Computação"
+  title_en: "Computer Science PhD Student"
   email: "georgeffv1@gmail.com"
   github: "GeorgFFV"
   linkedin: "george-felipe-fv"

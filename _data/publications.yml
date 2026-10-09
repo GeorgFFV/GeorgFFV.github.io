@@ -1,10 +1,22 @@
 # =============================================================================
-# publications.yml — baseado no Currículo Lattes (atualizado 08/05/2026)
+# publications.yml — baseado no Currículo Lattes (atualizado 11/09/2026)
 # Ordem cronológica inversa dentro de cada categoria
 # =============================================================================
 
 # --- Artigos em Periódicos ---------------------------------------------------
 journals:
+  - year: 2026
+    authors: "SOUSA, S. S.; FONTES, L. O.; OLIVEIRA, G. F.; COSTA, I. M. D.; SILVA, R. C. M.; VIEIRA, G. F. F."
+    title: "Eficácia do uso de terrários na compreensão dos biomas brasileiros em cursos de bacharelado"
+    title_en: "Effectiveness of using terrariums in understanding Brazilian biomes in bachelor's degree courses"
+    journal: "Journal of Education, Science and Health (JESH)"
+    volume: "6"
+    abstract_pt: "Avaliação da eficácia do uso de terrários como recurso didático para a compreensão dos biomas brasileiros por estudantes de cursos de bacharelado."
+    abstract_en: "Evaluation of the effectiveness of terrariums as a teaching resource for understanding Brazilian biomes among bachelor's degree students."
+    tags: ["Educação", "Biomas", "Ensino Superior", "Divulgação Científica"]
+    doi_url: "https://doi.org/10.52832/jesh.v6i3.704"
+    github_url: ""
+
   - year: 2023
     authors: "VIEIRA, G. F. F.; DE CASTRO, A. F.; DE OLIVEIRA, A. G."
     title: "Perfil epidemiológico da Febre Amarela no Brasil, entre os anos de 1994 e 2021, através da análise de dados oficiais do Datasus"
@@ -77,6 +89,17 @@ book_chapters:
 
 # --- Anais de Congressos -----------------------------------------------------
 conferences:
+  - year: 2026
+    authors: "VIEIRA, G. F. F.; GOMES, E. C. O.; FERNANDES, I. R. A.; LIMA, N. C. A."
+    title: "Uso de ferramentas gamificadas para análise do desempenho acadêmico em disciplinas de programação introdutória"
+    title_en: "Use of gamified tools for analyzing academic performance in introductory programming courses"
+    venue: "VII Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia"
+    abstract_pt: "Estudo sobre o uso de ferramentas gamificadas como apoio à análise do desempenho acadêmico de estudantes em disciplinas de programação introdutória."
+    abstract_en: "Study on the use of gamified tools to support the analysis of students' academic performance in introductory programming courses."
+    tags: ["Gamificação", "Educação", "Programação", "Desempenho Acadêmico"]
+    doi_url: ""
+    github_url: ""
+
   - year: 2025
     authors: "VIEIRA, G. F. F.; OLIVEIRA, A. G. DE; FONTES, F. F. DA C."
     title: "Estudo e implementação de algoritmos online baseados em aprendizado por reforço para o problema dos K-servos"

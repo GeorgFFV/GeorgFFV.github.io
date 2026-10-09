@@ -5,11 +5,11 @@ pt:
   nav_projects: "Projetos"
   nav_contact: "Contato"
   hero_greeting: "Olá, sou"
-  hero_subtitle: "Mestrando em Ciência da Computação"
-  hero_institution: "UFERSA/UERN — Mossoró, RN, Brasil"
+  hero_subtitle: "Doutorando em Computação"
+  hero_institution: "Universidade Federal Fluminense (UFF) — Niterói, RJ, Brasil"
   hero_description: >
-    Mestrando no programa de pós-graduação UFERSA/UERN,
-    ex-professor substituto da UFERSA, com pesquisa focada em
+    Doutorando em Computação na UFF e Mestre em Ciência da Computação
+    pela UFERSA, ex-professor substituto da UFERSA, com pesquisa focada em
     Otimização e Inteligência Computacional — especialmente
     Aprendizado por Reforço e Metaheurísticas (PSO, Simulated Annealing).
   hero_cta_pub: "Ver Publicações"
@@ -40,11 +40,11 @@ en:
   nav_projects: "Projects"
   nav_contact: "Contact"
   hero_greeting: "Hi, I'm"
-  hero_subtitle: "Computer Science MSc Student"
-  hero_institution: "UFERSA/UERN — Mossoró, RN, Brazil"
+  hero_subtitle: "Computer Science PhD Student"
+  hero_institution: "Fluminense Federal University (UFF) — Niterói, RJ, Brazil"
   hero_description: >
-    Computer Science MSc Student at UFERSA/UERN. Former Substitute Professor
-    focusing on Machine Learning research, specifically Reinforcement Learning
+    Computer Science PhD Student at UFF and MSc in Computer Science from UFERSA.
+    Former Substitute Professor focusing on Machine Learning research, specifically Reinforcement Learning
     and Metaheuristics (PSO and Simulated Annealing).
   hero_cta_pub: "View Publications"
   hero_cta_contact: "Get in Touch"
